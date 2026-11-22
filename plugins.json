@@ -163,7 +163,7 @@
         },
         {
           "file": "Online/ElysiumNet.prx",
-          "title": "Elysium",
+          "title": "ElysiumNet",
           "author": "tickle_me_pickles",
           "tagline": "Your games. Back online.",
           "description": "Our own private servers bring online multiplayer back to games whose official servers are gone.",
@@ -171,7 +171,7 @@
           "registration_required": true,
           "image": "pngs/online/ElysiumNet.png",
           "qr": {
-            "discord": "pngs/QR/discord/Elysium.png"
+            "discord": "pngs/QR/discord/ElysiumNet.png"
           }
         }
       ],
