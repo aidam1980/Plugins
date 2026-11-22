@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "categories": [
+    {
+      "id": "gta_v",
+      "title": "GTA V",
+      "items": [
+        {
+          "file": "GTA V/GTARBN.sprx",
+          "title": "GTARBN",
+          "description": "Server for playing GTA V",
+          "type": "server",
+          "qr": {
+            "discord": "pngs/QR/discord/GTARBN.png"
+          }
+        },
+        {
+          "file": "GTA V/LSO.prx",
+          "title": "LSO",
+          "description": "Server for playing GTA V",
+          "type": "server",
+          "qr": {
+            "site": "pngs/QR/site/LSO QR.png",
+            "discord": "pngs/QR/discord/LSO.png"
+          }
+        },
+        {
+          "file": "GTA V/Ozark.sprx",
+          "title": "Ozark",
+          "description": "Mod menu for GTA V",
+          "type": "mod_menu"
+        },
+        {
+          "file": "GTA V/RaiDougie-Design.prx",
+          "title": "RaiDougie-Design",
+          "description": "Mod menu for GTA V",
+          "type": "mod_menu"
+        },
+        {
+          "file": "GTA V/RaiDougie1.56.prx",
+          "title": "RaiDougie 1.56",
+          "description": "Mod menu for GTA V (Only 1.56)",
+          "type": "mod_menu",
+          "image": "pngs/GTA V/RaiDougie1.56.png"
+        },
+        {
+          "file": "GTA V/RaiDougie1.57.prx",
+          "title": "RaiDougie 1.57",
+          "description": "Mod menu for GTA V (Only 1.57)",
+          "type": "mod_menu",
+          "image": "pngs/GTA V/RaiDougie1.57.png"
+        },
+        {
+          "file": "GTA V/Velora.sprx",
+          "title": "Velora",
+          "description": "Mod menu for GTA V",
+          "type": "mod_menu",
+          "image": "pngs/GTA V/Velora.png"
+        },
+        {
+          "file": "GTA V/XeMo.prx",
+          "title": "XeMo",
+          "description": "Server for playing GTA V",
+          "type": "server",
+          "image": "pngs/GTA V/XeMo.png",
+          "qr": {
+            "site": "pngs/QR/site/Xemo QR.png",
+            "discord": "pngs/QR/discord/XeMo.png"
+          }
+        },
+        {
+          "file": "GTA V/explosive1.56.sprx",
+          "title": "Explosive 1.56",
+          "description": "Mod menu for GTA V (Only 1.56)",
+          "type": "mod_menu",
+          "image": "pngs/GTA V/explosive1.56.png",
+          "qr": {
+            "discord": "pngs/QR/discord/explosive1.56.png"
+          }
+        },
+        {
+          "file": "GTA V/explosive1.57.sprx",
+          "title": "Explosive 1.57",
+          "description": "Mod menu for GTA V (Only 1.57)",
+          "type": "mod_menu",
+          "image": "pngs/GTA V/explosive1.57.png",
+          "qr": {
+            "discord": "pngs/QR/discord/explosive1.57.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mods",
+      "title": "MODS",
+      "items": [
+        {
+          "file": "MODS/DeadOps.sprx",
+          "title": "DeadOps",
+          "author": "ItsJokerZz",
+          "description": "Load your own GSC scripts in Black Ops and Black Ops II. You don't need to compile anything. Just drop your plain .gsc file in the right folder.",
+          "type": "mod",
+          "image": "pngs/MODS/DeadOps.png",
+          "qr": {
+            "site": "pngs/QR/site/DeadOps.png"
+          },
+          "details": {
+            "Black Ops II Campaign": {
+              "folder": "/data/DeadOps/t6_sp/",
+              "filename": "_callbacksetup.gsc"
+            },
+            "Black Ops II Zombies": {
+              "folder": "/data/DeadOps/t6_zm/",
+              "filename": "_clientids.gsc"
+            },
+            "Black Ops II Multiplayer": {
+              "folder": "/data/DeadOps/t6_mp/",
+              "filename": "_clientids.gsc"
+            },
+            "Black Ops Multiplayer": {
+              "folder": "/data/DeadOps/t5_mp/",
+              "filename": "_clientids.gsc"
+            },
+            "Black Ops Campaign / Zombies": {
+              "folder": "/data/DeadOps/t5_cp/",
+              "filename": "cmp.gsc"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "online",
+      "title": "ONLINE",
+      "items": [
+        {
+          "file": "Online/OrbisNet.sprx",
+          "title": "OrbisNet",
+          "author": "tevtongermany",
+          "tagline": "Play Online Again",
+          "description": "OrbisNet brings PlayStation 4 multiplayer back, with matchmaking, friends and invites on community-run servers.",
+          "type": "online_service",
+          "registration_required": true,
+          "image": "pngs/online/OrbisNet.png",
+          "qr": {
+            "site": "pngs/QR/site/OrbisNet.png",
+            "discord": "pngs/QR/discord/OrbisNet.png"
+          }
+        },
+        {
+          "file": "Online/XeMo.prx",
+          "title": "XeMo",
+          "author": "onlymoisties",
+          "tagline": "Your games. Back online.",
+          "description": "Our own private servers bring online multiplayer back to games whose official servers are gone.",
+          "type": "online_service",
+          "registration_required": true,
+          "image": "pngs/online/XeMo.png",
+          "qr": {
+            "site": "pngs/QR/site/Xemo QR.png",
+            "discord": "pngs/QR/discord/XeMo.png"
+          }
+        },
+        {
+          "file": "Online/ElysiumNet.prx",
+          "title": "Elysium",
+          "author": "tickle_me_pickles",
+          "tagline": "Your games. Back online.",
+          "description": "Our own private servers bring online multiplayer back to games whose official servers are gone.",
+          "type": "online_service",
+          "registration_required": true,
+          "image": "pngs/online/ElysiumNet.png",
+          "qr": {
+            "discord": "pngs/QR/discord/Elysium.png"
+          }
+        }
+      ],
+      "registration_notice": "You need to register on the website before using the service."
+    }
+  ],
+  "notes": [
+    "QR image paths are relative to the repository root.",
+    "The GTA V QR mappings follow the currently available QR assets in the repository; verify server-specific destinations before publishing if they differ.",
+    "Elysium uses a Discord QR image at pngs/QR/discord/Elysium.png; add that image at this exact path. No website QR is configured.",
+    "Elysium has a Discord QR image expected at pngs/QR/discord/Elysium.png. Add the image at this exact path. No website QR is configured."
+  ]
+}
