@@ -4,6 +4,7 @@
     {
       "id": "gta_v",
       "title": "GTA V",
+      "image": "",
       "items": [
         {
           "file": "GTA V/GTARBN.sprx",
@@ -93,6 +94,7 @@
     {
       "id": "mods",
       "title": "MODS",
+      "image": "",
       "items": [
         {
           "file": "MODS/DeadOps.sprx",
@@ -132,6 +134,7 @@
     {
       "id": "online",
       "title": "ONLINE",
+      "image": "",
       "items": [
         {
           "file": "Online/OrbisNet.sprx",
@@ -177,11 +180,5 @@
       ],
       "registration_notice": "You need to register on the website before using the service."
     }
-  ],
-  "notes": [
-    "QR image paths are relative to the repository root.",
-    "The GTA V QR mappings follow the currently available QR assets in the repository; verify server-specific destinations before publishing if they differ.",
-    "Elysium uses a Discord QR image at pngs/QR/discord/Elysium.png; add that image at this exact path. No website QR is configured.",
-    "Elysium has a Discord QR image expected at pngs/QR/discord/Elysium.png. Add the image at this exact path. No website QR is configured."
   ]
 }
