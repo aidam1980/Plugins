@@ -9,7 +9,7 @@
         {
           "file": "GTA V/GTARBN.sprx",
           "title": "GTARBN",
-          "description": "Server for playing GTA V",
+          "description": "Server for playing GTA V online",
           "type": "server",
           "qr": {
             "discord": "pngs/QR/discord/GTARBN.png"
@@ -18,7 +18,7 @@
         {
           "file": "GTA V/LSO.prx",
           "title": "LSO",
-          "description": "Server for playing GTA V",
+          "description": "Server for playing GTA V online",
           "type": "server",
           "qr": {
             "site": "pngs/QR/site/LSO QR.png",
@@ -61,7 +61,7 @@
         {
           "file": "GTA V/XeMo.prx",
           "title": "XeMo",
-          "description": "Server for playing GTA V",
+          "description": "Server for playing GTA V online",
           "type": "server",
           "image": "pngs/GTA V/XeMo.png",
           "qr": {
