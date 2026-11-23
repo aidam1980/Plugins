@@ -11,6 +11,7 @@
           "title": "GTARBN",
           "description": "Server for playing GTA V online",
           "type": "server",
+          "image": "pngs/GTA V/GTARBN.png"
           "qr": {
             "discord": "pngs/QR/discord/GTARBN.png"
           }
@@ -20,6 +21,7 @@
           "title": "LSO",
           "description": "Server for playing GTA V online",
           "type": "server",
+          "image": "pngs/GTA V/LSO.png"
           "qr": {
             "site": "pngs/QR/site/LSO QR.png",
             "discord": "pngs/QR/discord/LSO.png"
