@@ -4,7 +4,7 @@
     {
       "id": "gta_v",
       "title": "GTA V",
-      "image": "",
+      "image": "pngs/Categories/GTA V.jpg",
       "items": [
         {
           "file": "GTA V/GTARBN.sprx",
@@ -94,7 +94,7 @@
     {
       "id": "mods",
       "title": "MODS",
-      "image": "",
+      "image": "pngs/Categories/mods.png",
       "items": [
         {
           "file": "MODS/DeadOps.sprx",
@@ -134,7 +134,7 @@
     {
       "id": "online",
       "title": "ONLINE",
-      "image": "",
+      "image": "pngs/Categories/Online.png",
       "items": [
         {
           "file": "Online/OrbisNet.sprx",
