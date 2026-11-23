@@ -89,6 +89,25 @@
       ]
     },
     {
+  "id": "goldhen",
+  "title": "GoldHEN",
+  "image": "pngs/Categories/GoldHEN.png",
+  "items": [
+    {
+      "file": "GoldHEN/afr.prx",
+      "title": "AFR",
+      "type": "plugin",
+      "image": "pngs/GoldHEN/afr.png"
+    },
+    {
+      "file": "GoldHEN/game_patch.prx",
+      "title": "Game Patch",
+      "type": "plugin",
+      "image": "pngs/GoldHEN/game_patch.png"
+    }
+  ]
+    },
+    {
       "id": "mods",
       "title": "MODS",
       "image": "pngs/Categories/mods.png",
