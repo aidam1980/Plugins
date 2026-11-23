@@ -16,6 +16,7 @@
             "discord": "pngs/QR/discord/GTARBN.png"
           }
         },
+        
         {
           "file": "GTA V/LSO.prx",
           "title": "LSO",
@@ -28,14 +29,19 @@
           }
         },
         {
-          "file": "GTA V/Ozark.sprx",
-          "title": "Ozark",
-          "description": "Mod menu for GTA V",
-          "type": "mod_menu"
+          "file": "GTA V/XeMo.prx",
+          "title": "XeMo",
+          "description": "Server for playing GTA V online",
+          "type": "server",
+          "image": "pngs/GTA V/XeMo.png",
+          "qr": {
+            "site": "pngs/QR/site/Xemo QR.png",
+            "discord": "pngs/QR/discord/XeMo.png"
+          }
         },
         {
-          "file": "GTA V/RaiDougie-Design.prx",
-          "title": "RaiDougie-Design",
+          "file": "GTA V/Ozark.sprx",
+          "title": "Ozark",
           "description": "Mod menu for GTA V",
           "type": "mod_menu"
         },
@@ -59,17 +65,6 @@
           "description": "Mod menu for GTA V",
           "type": "mod_menu",
           "image": "pngs/GTA V/Velora.png"
-        },
-        {
-          "file": "GTA V/XeMo.prx",
-          "title": "XeMo",
-          "description": "Server for playing GTA V online",
-          "type": "server",
-          "image": "pngs/GTA V/XeMo.png",
-          "qr": {
-            "site": "pngs/QR/site/Xemo QR.png",
-            "discord": "pngs/QR/discord/XeMo.png"
-          }
         },
         {
           "file": "GTA V/explosive1.56.sprx",
