@@ -99,12 +99,14 @@
     {
       "file": "GoldHEN/afr.prx",
       "title": "AFR",
+      "author": "SiSTR0&jocover",
       "type": "plugin",
       "image": "pngs/GoldHEN/afr.png"
     },
     {
       "file": "GoldHEN/game_patch.prx",
       "title": "Game Patch",
+      "author": "illusion",
       "type": "plugin",
       "image": "pngs/GoldHEN/game_patch.png"
     }
