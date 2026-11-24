@@ -11,6 +11,7 @@
           "title": "GTARBN",
           "description": "Server for playing GTA V online",
           "type": "server",
+          "registration_required": true,
           "image": "pngs/GTA V/GTARBN.png",
           "qr": {
             "discord": "pngs/QR/discord/GTARBN.png"
@@ -23,6 +24,7 @@
           "description": "Server for playing GTA V online",
           "type": "server",
           "image": "pngs/GTA V/LSO.png",
+          "registration_required": true,
           "qr": {
             "site": "pngs/QR/site/LSO QR.png",
             "discord": "pngs/QR/discord/LSO.png"
@@ -33,6 +35,7 @@
           "title": "XeMo",
           "description": "Server for playing GTA V online",
           "type": "server",
+          "registration_required": true,
           "image": "pngs/GTA V/XeMo.png",
           "qr": {
             "site": "pngs/QR/site/Xemo QR.png",
