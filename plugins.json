@@ -149,7 +149,17 @@
               "filename": "cmp.gsc"
             }
           }
-        }
+        },
+        {
+        "file": "MODS/gnmscale_plugin.prx",
+          "title": "GnmScale",
+          "author": "theobscureking",
+          "description": "neural upscaleing and farme generator.",
+          "type": "mod",
+          "image": "pngs/MODS/gnmscale_plugin.png",
+          "qr": {
+            "discord": "pngs/QR/discord/gnmscale_plugin.png"
+          },
       ]
     },
     {
