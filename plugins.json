@@ -17,7 +17,6 @@
             "discord": "pngs/QR/discord/GTARBN.png"
           }
         },
-        
         {
           "file": "GTA V/LSO.prx",
           "title": "LSO",
@@ -126,7 +125,8 @@
           "image": "pngs/MODS/gnmscale_plugin.png",
           "qr": {
             "discord": "pngs/QR/discord/gnmscale_plugin.png"
-          },
+          }
+    },
         {
           "file": "MODS/DeadOps.sprx",
           "title": "DeadOps",
